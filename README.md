@@ -36,7 +36,7 @@
 |---|---|
 | **SmartHire** | AI-powered recruitment automation platform that parses CVs, filters candidates, and streamlines hiring workflows |
 | **SpeedEats** | Delivery route optimization system using data structures and algorithms to improve efficiency and reduce travel overhead |
-| **MarketMind** | AI-powered stock market intelligence platform providing predictions, risk analysis, and portfolio optimization :contentReference[oaicite:0]{index=0} |
+| **MarketMind** | AI-powered stock market intelligence platform providing predictions, risk analysis, and portfolio optimization |
 
 ---
 
