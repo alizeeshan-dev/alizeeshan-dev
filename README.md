@@ -7,12 +7,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 &nbsp;Computer Science student at FAST NUCES, Karachi (GPA: 3.71)
-- 💻 &nbsp;Strong foundation in **full-stack development**, **data structures**, and **system design**
-- 🧠 &nbsp;Interested in building intelligent systems and impactful software solutions
-- 🌱 &nbsp;Continuously learning and working on projects that solve real-world problems
+-  &nbsp;Computer Science student at FAST NUCES, Karachi (GPA: 3.71)
+-  &nbsp;Strong foundation in **full-stack development**, **data structures**, and **system design**
+-  &nbsp;Interested in building intelligent systems and impactful software solutions
+-  &nbsp;Continuously learning and working on projects that solve real-world problems
 
 ---
 
